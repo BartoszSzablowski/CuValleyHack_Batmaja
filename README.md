@@ -1,0 +1,1 @@
+Rozwiązanie wyznaczające jakość katod w oparciu o parametry wsadów oraz parametry procesowe
