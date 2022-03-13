@@ -5,7 +5,7 @@ Nazwa projektu: BATModa
 ##Zadanie
 Przygotowanie modelu danych wyznaczającego jakość 
 ## Opis projektu
-
+Projekt oparty jest o modele uczenia maszynowego prognozującego liczbę katod oraz jakość ich wykonania. Rezultatem jest interaktywna aplikacja.
 
 ## Link do aplikacji
 https://batmoda.herokuapp.com
